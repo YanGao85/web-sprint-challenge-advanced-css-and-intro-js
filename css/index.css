@@ -88,9 +88,7 @@ video {
   vertical-align: baseline;
 }
 /*GENERAL STYLES*/
-* {
-  border: 1px solid grey;
-}
+
 html {
   font-size: 62.5%;
 }
@@ -230,10 +228,8 @@ button:hover {
 
   .title-container div {
     width: 100%;
-    height: 40vh;
+    height: 35vh;
     margin: 2% 0;
-    /* background-size:; */
-    /* background-position: 50%; */
     background-size: 225%;
   }
 
@@ -251,8 +247,9 @@ button:hover {
     border: 1px solid #626262;
     box-shadow: 1px 1px 0px #626262;
     font-size: 1.2rem;
-    border-radius: 0%;
+    border-radius: 2%;
     margin-top: 1.6%;
+    padding: 1.3% 3.5%;
   }
 
   /*Artists Section Styles */
@@ -272,7 +269,7 @@ button:hover {
 
   .artist img {
     width: 75%;
-    height: 20vh;
+    height: 18vh;
     margin-bottom: 5%;
   }
 }
