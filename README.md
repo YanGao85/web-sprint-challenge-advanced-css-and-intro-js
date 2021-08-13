@@ -24,12 +24,23 @@ Please answer the following questions below, you may edit the readme file to inc
 
 1. How would you describe acessibility on the web to someone new to programming?
 
-<!-- It is about designing -->
+<!-- It is about making web pages with acessibility design in mind taking into cosideration how all would every user interact with our web page. -->
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
+
+<!-- First, it needs reponsive units so it is scalable with different types of devices. Second, we should use semantic through out our app or web page as much as possible that way if customer are using screen readers they can contextualize the contend. And last, We need to add visual counterpart for color impared users.-->
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+<!-- A variable is like a box that you can store something in it, which you might need its content in the future. -->
+
 4. What is the purpose of using functions in code?
+
+<!-- To recycle code. -->
+
 5. How do you access a key inside of an object inside of an array?
+
+<!-- Not sure if you want the keys or to access their values. Array[objIndex][key] will return you the value of that key. If you want to know what keys are inside that object you can use Object.keys(obj) -->
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
